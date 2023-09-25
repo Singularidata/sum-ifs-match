@@ -1,3 +1,4 @@
+
 # SUM IFS MATCH
 
 SumIfsMatch is a Google Sheets formula written in Javascript using the App Script Extension developed by Singularidata.com
@@ -35,3 +36,15 @@ With sumifsMatch you can:
 To sum all values on column C where B CONTAINS "foo"
 
 ![enter image description here](https://media.giphy.com/media/ncTvVeWqvnNu4lZQIH/giphy.gif)
+
+## Ok, but how install SumIfsMatch?
+
+Open the Google Sheets. On Menu select Extensions >> Apps Script
+![open Apps Script](https://singularidata.com/wp-content/uploads/2023/09/Screenshot-2023-09-25-at-11.52.44.png)
+
+Copy the entire content from the file ``sumifsmatch.js`` and paste replacing the default content.
+![replacing original content for script](https://singularidata.com/wp-content/uploads/2023/09/Screenshot-2023-09-25-at-11.53.27.png)
+
+![saving the project](https://singularidata.com/wp-content/uploads/2023/09/Screenshot-2023-09-25-at-11.56.27.png)
+Save the project. Go Back to your sheet and you're ready to use the brand new formula ``SumIfsMatch``
+🤩
